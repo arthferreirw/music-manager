@@ -25,7 +25,8 @@ Este é um aplicativo de console simples em Java desenvolvido como parte de um e
 
 ## Exemplo de uso
 
-Abaixo, um exemplo da interface do programa rodando no terminal:
+
 ![image](https://github.com/user-attachments/assets/f27da2aa-7489-4c1f-98c9-681b308ba311)
+ Um exemplo da interface do programa rodando no terminal
 
 
