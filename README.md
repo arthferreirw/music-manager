@@ -7,7 +7,7 @@ Este é um aplicativo de console simples em Java desenvolvido como parte de um e
 - Adicionar música à lista
 - Remover música pelo título
 - Pesquisar música pelo título
-- Pesquisar música pelo artista
+- Imprimir todas as músicas 
 - Interface de menu interativo no console
 
 ## Tecnologias utilizadas
@@ -27,7 +27,8 @@ Este é um aplicativo de console simples em Java desenvolvido como parte de um e
 Um exemplo da interface do programa rodando no terminal
 
 
-![image](https://github.com/user-attachments/assets/f27da2aa-7489-4c1f-98c9-681b308ba311)
+![image](https://github.com/user-attachments/assets/58a511bf-1359-4304-9098-8c89d5e51218)
+
 
 
 
